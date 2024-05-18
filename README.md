@@ -1,4 +1,4 @@
-### CampusHER
+# CampusHER
 
 ## Introduction
 CampusHER is a mobile application designed to provide university women with access to health resources, appointment scheduling, health tips, and more. The backend is developed using Python with Flask (or Django), and the frontend is built using React Native.
@@ -111,11 +111,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any queries or further information, please contact:
 - **Gayanthika Shankar**, Developer  
-  <a href="mailto:gayanthika.s-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/> gayanthika.s-26@scds.saiuniversity.edu.in</a>
+  <a href="mailto:gayanthika.s-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/></a>
   
 - **Shravanthi Balasubramaniam**, Developer  
-  <a href="mailto:shravanthi.b-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/> shravanthi.b-26@scds.saiuniversity.edu.in</a>
+  <a href="mailto:shravanthi.b-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/> </a>
 
 - **Vidhyakshaya Kannan**, Developer  
-  <a href="mailto:vidhyakshaya.k-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/> vidhyakshaya.k-26@scds.saiuniversity.edu.in</a>
+  <a href="mailto:vidhyakshaya.k-26@scds.saiuniversity.edu.in"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png"/> </a>
 
